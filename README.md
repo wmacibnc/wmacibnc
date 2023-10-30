@@ -37,7 +37,16 @@ Oracle Certifield Java Programmer e CertiProf Certifield em Scrum e DevOps.🚀.
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WMACIBNC&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto
-  
+
+### Jogos [NOVIDADE]
+
+[![yugioh](https://github-readme-stats.vercel.app/api/pin/?username=wmacibnc&repo=yugioh&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wmacibnc/yugioh)
+[![detona-ralph](https://github-readme-stats.vercel.app/api/pin/?username=wmacibnc&repo=detona-ralph&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wmacibnc/detona-ralph)
+[![jogo-memoria](https://github-readme-stats.vercel.app/api/pin/?username=wmacibnc&repo=jogo-memoria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wmacibnc/jogo-memoria)
+[![piano-virtual](https://github-readme-stats.vercel.app/api/pin/?username=wmacibnc&repo=piano-virtual&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wmacibnc/piano-virtual)
+
+### Demais projetos e aplicativos
+
 [![alzheimer-app](https://github-readme-stats.vercel.app/api/pin/?username=wmacibnc&repo=alzheimer-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wmacibnc/alzheimer-app)
 [![poc-escola-arquitetos](https://github-readme-stats.vercel.app/api/pin/?username=wmacibnc&repo=poc-escola-arquitetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wmacibnc/poc-escola-arquitetos)
 [![poc-eureka](https://github-readme-stats.vercel.app/api/pin/?username=wmacibnc&repo=poc-eureka&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wmacibnc/poc-eureka)
